@@ -21,6 +21,6 @@ var getConcatenation = function(nums) {
         result[i+nums.length]=nums[i]
     }
     return result
-
+    
     
 };
